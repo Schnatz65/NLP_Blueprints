@@ -1,0 +1,5 @@
+# Original spacy
+spacy==2.3.2
+lime
+eli5
+anchor-exp

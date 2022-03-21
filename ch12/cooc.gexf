@@ -1,0 +1,737 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-03-07">
+    <creator>NetworkX 2.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="articles" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Trans World Airlines" label="Trans World Airlines" />
+      <node id="USAir Group" label="USAir Group" />
+      <node id="Cyclops" label="Cyclops" />
+      <node id="Dixons Group" label="Dixons Group" />
+      <node id="U.S. Department of Transportation" label="U.S. Department of Transportation" />
+      <node id="Piedmont Aviation" label="Piedmont Aviation" />
+      <node id="American Motors" label="American Motors" />
+      <node id="Chrysler" label="Chrysler" />
+      <node id="AFG Industries" label="AFG Industries" />
+      <node id="GenCorp" label="GenCorp" />
+      <node id="American Express" label="American Express" />
+      <node id="Shearson Lehman Brothers" label="Shearson Lehman Brothers" />
+      <node id="Wagner" label="Wagner" />
+      <node id="E.F. Hutton LBO" label="E.F. Hutton LBO" />
+      <node id="Purolator Courier" label="Purolator Courier" />
+      <node id="Audio/Video Affiliates" label="Audio/Video Affiliates" />
+      <node id="Fairchild Semiconductor" label="Fairchild Semiconductor" />
+      <node id="Fujitsu" label="Fujitsu" />
+      <node id="General Partners" label="General Partners" />
+      <node id="Allegheny International" label="Allegheny International" />
+      <node id="First Boston" label="First Boston" />
+      <node id="Securities and Exchange Commission" label="Securities and Exchange Commission" />
+      <node id="Caesars World" label="Caesars World" />
+      <node id="MTS Acquisition" label="MTS Acquisition" />
+      <node id="Baker International" label="Baker International" />
+      <node id="Hughes Tool" label="Hughes Tool" />
+      <node id="U.S. Department of Justice" label="U.S. Department of Justice" />
+      <node id="Reuters" label="Reuters" />
+      <node id="Federal Communications Commission" label="Federal Communications Commission" />
+      <node id="MCA" label="MCA" />
+      <node id="Citicorp" label="Citicorp" />
+      <node id="Industrial Equity (Pacific)" label="Industrial Equity (Pacific)" />
+      <node id="Cyacq" label="Cyacq" />
+      <node id="Renault" label="Renault" />
+      <node id="Citicorp Capital Investors" label="Citicorp Capital Investors" />
+      <node id="Norfolk Southern" label="Norfolk Southern" />
+      <node id="Schlumberger" label="Schlumberger" />
+      <node id="Alleghany" label="Alleghany" />
+      <node id="Brierley Investments" label="Brierley Investments" />
+      <node id="Commerce" label="Commerce" />
+      <node id="Mutual Shares" label="Mutual Shares" />
+      <node id="Emery Air Freight" label="Emery Air Freight" />
+      <node id="E.F. Hutton Group" label="E.F. Hutton Group" />
+      <node id="Drexel Burnham Lambert" label="Drexel Burnham Lambert" />
+      <node id="CPC International" label="CPC International" />
+      <node id="Mark IV Industries" label="Mark IV Industries" />
+      <node id="WOR-TV" label="WOR-TV" />
+      <node id="Harcourt Brace Jovanovich" label="Harcourt Brace Jovanovich" />
+      <node id="Harper and Row Publishers" label="Harper and Row Publishers" />
+      <node id="General Acquisition" label="General Acquisition" />
+      <node id="CYACQ" label="CYACQ" />
+      <node id="Pacific Southwest Airlines" label="Pacific Southwest Airlines" />
+      <node id="Nippon Life Insurance" label="Nippon Life Insurance" />
+      <node id="Walt Disney" label="Walt Disney" />
+      <node id="Congress" label="Congress" />
+      <node id="VBI" label="VBI" />
+      <node id="New York Stock Exchange" label="New York Stock Exchange" />
+      <node id="Harris Associates L.P." label="Harris Associates L.P." />
+      <node id="Conrac" label="Conrac" />
+      <node id="Astral Pacific" label="Astral Pacific" />
+      <node id="Fidelity International" label="Fidelity International" />
+      <node id="Merrill Lynch" label="Merrill Lynch" />
+      <node id="RKO General" label="RKO General" />
+      <node id="E.F. Hutton" label="E.F. Hutton" />
+      <node id="PC Acquisition" label="PC Acquisition" />
+      <node id="Baird" label="Baird" />
+      <node id="Rainbow" label="Rainbow" />
+      <node id="Oppenheimer" label="Oppenheimer" />
+      <node id="Reed International" label="Reed International" />
+      <node id="Progressive Enterprises" label="Progressive Enterprises" />
+      <node id="Scandinavia Fund" label="Scandinavia Fund" />
+      <node id="Ingemar Rydin Industritillbehor AB" label="Ingemar Rydin Industritillbehor AB" />
+    </nodes>
+    <edges>
+      <edge source="Trans World Airlines" target="USAir Group" id="0" weight="22">
+        <attvalues>
+          <attvalue for="0" value="1735,1771,1836,1862,1996" />
+        </attvalues>
+      </edge>
+      <edge source="Trans World Airlines" target="U.S. Department of Transportation" id="1" weight="14">
+        <attvalues>
+          <attvalue for="0" value="1735,1996,2546,2799,2917" />
+        </attvalues>
+      </edge>
+      <edge source="Trans World Airlines" target="Piedmont Aviation" id="2" weight="12">
+        <attvalues>
+          <attvalue for="0" value="1735,1836,1862,1996,2375" />
+        </attvalues>
+      </edge>
+      <edge source="Trans World Airlines" target="Securities and Exchange Commission" id="3" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5671,5710,5750,7650,9487" />
+        </attvalues>
+      </edge>
+      <edge source="Trans World Airlines" target="Norfolk Southern" id="4" weight="4">
+        <attvalues>
+          <attvalue for="0" value="1771,1836,1862,2375" />
+        </attvalues>
+      </edge>
+      <edge source="USAir Group" target="U.S. Department of Transportation" id="5" weight="20">
+        <attvalues>
+          <attvalue for="0" value="1735,1996,2128,2546,2799" />
+        </attvalues>
+      </edge>
+      <edge source="USAir Group" target="Piedmont Aviation" id="6" weight="20">
+        <attvalues>
+          <attvalue for="0" value="1735,1836,1862,1996,2375" />
+        </attvalues>
+      </edge>
+      <edge source="USAir Group" target="Norfolk Southern" id="7" weight="7">
+        <attvalues>
+          <attvalue for="0" value="1562,1771,1836,1862,2375" />
+        </attvalues>
+      </edge>
+      <edge source="USAir Group" target="Securities and Exchange Commission" id="8" weight="6">
+        <attvalues>
+          <attvalue for="0" value="3298,5671,5710,5750,7650" />
+        </attvalues>
+      </edge>
+      <edge source="USAir Group" target="Pacific Southwest Airlines" id="9" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1836,2128,3298,3970,9108" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Dixons Group" id="10" weight="21">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,6093,6402,7110" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Audio/Video Affiliates" id="11" weight="13">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,6402,7747,7977" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Securities and Exchange Commission" id="12" weight="10">
+        <attvalues>
+          <attvalue for="0" value="96,3239,4918,7977,8020" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Citicorp" id="13" weight="7">
+        <attvalues>
+          <attvalue for="0" value="6402,7747,8778,8823,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Cyacq" id="14" weight="7">
+        <attvalues>
+          <attvalue for="0" value="2902,4303,4933,8497,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Citicorp Capital Investors" id="15" weight="7">
+        <attvalues>
+          <attvalue for="0" value="2902,4303,4933,8497,8509" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="Alleghany" id="16" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4303,7747,8509,8778,8823" />
+        </attvalues>
+      </edge>
+      <edge source="Cyclops" target="CYACQ" id="17" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6093,6402,8778,8823" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Audio/Video Affiliates" id="18" weight="12">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,6402,7747,7977" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Citicorp" id="19" weight="7">
+        <attvalues>
+          <attvalue for="0" value="6402,7747,8778,8823,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Securities and Exchange Commission" id="20" weight="7">
+        <attvalues>
+          <attvalue for="0" value="7749,7977,8509,9246,9526" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Alleghany" id="21" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4303,7747,8509,8778,8823" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Citicorp Capital Investors" id="22" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,8497,8509,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="Cyacq" id="23" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,8497,8932,11101" />
+        </attvalues>
+      </edge>
+      <edge source="Dixons Group" target="CYACQ" id="24" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6093,6402,8778,8823,13188" />
+        </attvalues>
+      </edge>
+      <edge source="U.S. Department of Transportation" target="Piedmont Aviation" id="25" weight="11">
+        <attvalues>
+          <attvalue for="0" value="1735,1996,2799,3013,3153" />
+        </attvalues>
+      </edge>
+      <edge source="U.S. Department of Transportation" target="U.S. Department of Justice" id="26" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2948,2951,3711,7899" />
+        </attvalues>
+      </edge>
+      <edge source="Piedmont Aviation" target="Norfolk Southern" id="27" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1836,1862,2375,3039,3298" />
+        </attvalues>
+      </edge>
+      <edge source="Piedmont Aviation" target="Securities and Exchange Commission" id="28" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3298,5750,7650,9487" />
+        </attvalues>
+      </edge>
+      <edge source="American Motors" target="Chrysler" id="29" weight="15">
+        <attvalues>
+          <attvalue for="0" value="3035,3056,3100,3152,3198" />
+        </attvalues>
+      </edge>
+      <edge source="American Motors" target="Renault" id="30" weight="7">
+        <attvalues>
+          <attvalue for="0" value="3035,3100,3198,3241,3396" />
+        </attvalues>
+      </edge>
+      <edge source="Chrysler" target="Renault" id="31" weight="7">
+        <attvalues>
+          <attvalue for="0" value="3035,3100,3198,3241,3396" />
+        </attvalues>
+      </edge>
+      <edge source="Chrysler" target="Reuters" id="32" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3198,3241,3396,8855" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="GenCorp" id="33" weight="13">
+        <attvalues>
+          <attvalue for="0" value="6410,6630,6815,6819,6928" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="Wagner" id="34" weight="13">
+        <attvalues>
+          <attvalue for="0" value="6815,6819,8204,9036,9087" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="General Partners" id="35" weight="10">
+        <attvalues>
+          <attvalue for="0" value="6410,6463,6630,6665,6815" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="Federal Communications Commission" id="36" weight="6">
+        <attvalues>
+          <attvalue for="0" value="6410,6665,6928,9638,11492" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="MCA" id="37" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6410,6665,6928,9638,11492" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="General Acquisition" id="38" weight="5">
+        <attvalues>
+          <attvalue for="0" value="10676,10784,11144,11161,11253" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="Walt Disney" id="39" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6410,6665,6928,19930" />
+        </attvalues>
+      </edge>
+      <edge source="AFG Industries" target="Securities and Exchange Commission" id="40" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6815,6928,13210,16395" />
+        </attvalues>
+      </edge>
+      <edge source="GenCorp" target="General Partners" id="41" weight="10">
+        <attvalues>
+          <attvalue for="0" value="6410,6630,6815,6819,6928" />
+        </attvalues>
+      </edge>
+      <edge source="GenCorp" target="Wagner" id="42" weight="8">
+        <attvalues>
+          <attvalue for="0" value="6815,6819,8204,9087,10676" />
+        </attvalues>
+      </edge>
+      <edge source="GenCorp" target="Federal Communications Commission" id="43" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6410,6928,9638,11492,13077" />
+        </attvalues>
+      </edge>
+      <edge source="GenCorp" target="MCA" id="44" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6410,6928,9638,11492,13077" />
+        </attvalues>
+      </edge>
+      <edge source="GenCorp" target="Securities and Exchange Commission" id="45" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6815,6928,13210,15600,16395" />
+        </attvalues>
+      </edge>
+      <edge source="American Express" target="Shearson Lehman Brothers" id="46" weight="13">
+        <attvalues>
+          <attvalue for="0" value="110,362,2543,2768,3142" />
+        </attvalues>
+      </edge>
+      <edge source="American Express" target="E.F. Hutton Group" id="47" weight="4">
+        <attvalues>
+          <attvalue for="0" value="110,362,7391,17776" />
+        </attvalues>
+      </edge>
+      <edge source="American Express" target="Securities and Exchange Commission" id="48" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2543,2768,8040,8561" />
+        </attvalues>
+      </edge>
+      <edge source="Shearson Lehman Brothers" target="E.F. Hutton Group" id="49" weight="6">
+        <attvalues>
+          <attvalue for="0" value="110,362,7391,8628,8666" />
+        </attvalues>
+      </edge>
+      <edge source="Shearson Lehman Brothers" target="Securities and Exchange Commission" id="50" weight="5">
+        <attvalues>
+          <attvalue for="0" value="2543,2768,8040,8561,19683" />
+        </attvalues>
+      </edge>
+      <edge source="Shearson Lehman Brothers" target="Nippon Life Insurance" id="51" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6944,7024,8040,8628,8666" />
+        </attvalues>
+      </edge>
+      <edge source="Wagner" target="General Partners" id="52" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6815,6819,8204,16395" />
+        </attvalues>
+      </edge>
+      <edge source="Wagner" target="General Acquisition" id="53" weight="4">
+        <attvalues>
+          <attvalue for="0" value="10676,11144,11161,11253" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="Purolator Courier" id="54" weight="13">
+        <attvalues>
+          <attvalue for="0" value="768,1667,4369,4477,5442" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="Securities and Exchange Commission" id="55" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1667,4369,4477,5442,14201" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="Emery Air Freight" id="56" weight="4">
+        <attvalues>
+          <attvalue for="0" value="12054,12195,13124,14201" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="PC Acquisition" id="57" weight="4">
+        <attvalues>
+          <attvalue for="0" value="372,768,14201,15565" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="E.F. Hutton Group" id="58" weight="4">
+        <attvalues>
+          <attvalue for="0" value="372,4477,12156,12195" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton LBO" target="E.F. Hutton" id="59" weight="4">
+        <attvalues>
+          <attvalue for="0" value="372,12156,13124,15565" />
+        </attvalues>
+      </edge>
+      <edge source="Purolator Courier" target="Securities and Exchange Commission" id="60" weight="7">
+        <attvalues>
+          <attvalue for="0" value="1667,2224,4369,4477,5442" />
+        </attvalues>
+      </edge>
+      <edge source="Purolator Courier" target="Emery Air Freight" id="61" weight="6">
+        <attvalues>
+          <attvalue for="0" value="11763,12054,12195,13124,13790" />
+        </attvalues>
+      </edge>
+      <edge source="Purolator Courier" target="E.F. Hutton Group" id="62" weight="5">
+        <attvalues>
+          <attvalue for="0" value="2024,4477,12156,12195,13790" />
+        </attvalues>
+      </edge>
+      <edge source="Purolator Courier" target="PC Acquisition" id="63" weight="4">
+        <attvalues>
+          <attvalue for="0" value="768,13790,14201,15565" />
+        </attvalues>
+      </edge>
+      <edge source="Audio/Video Affiliates" target="Citicorp" id="64" weight="7">
+        <attvalues>
+          <attvalue for="0" value="6402,7747,8778,8823,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Audio/Video Affiliates" target="Cyacq" id="65" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,8497,8932,11101" />
+        </attvalues>
+      </edge>
+      <edge source="Audio/Video Affiliates" target="Citicorp Capital Investors" id="66" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4303,4933,8497,8932,11101" />
+        </attvalues>
+      </edge>
+      <edge source="Audio/Video Affiliates" target="Alleghany" id="67" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4303,7747,8778,8823,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Fairchild Semiconductor" target="Fujitsu" id="68" weight="12">
+        <attvalues>
+          <attvalue for="0" value="4055,4158,4488,4665,5643" />
+        </attvalues>
+      </edge>
+      <edge source="Fairchild Semiconductor" target="Schlumberger" id="69" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4055,4665,5643,5690,5724" />
+        </attvalues>
+      </edge>
+      <edge source="Fairchild Semiconductor" target="Reuters" id="70" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4158,4488,4665,5724,5808" />
+        </attvalues>
+      </edge>
+      <edge source="Fairchild Semiconductor" target="Commerce" id="71" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4055,4158,4488,4665,5690" />
+        </attvalues>
+      </edge>
+      <edge source="Fujitsu" target="Reuters" id="72" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4158,4488,4665,5724,5808" />
+        </attvalues>
+      </edge>
+      <edge source="Fujitsu" target="Schlumberger" id="73" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4055,4665,5643,5690,5724" />
+        </attvalues>
+      </edge>
+      <edge source="Fujitsu" target="Commerce" id="74" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4055,4158,4488,4665,5690" />
+        </attvalues>
+      </edge>
+      <edge source="General Partners" target="Securities and Exchange Commission" id="75" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6815,6928,15600,16395" />
+        </attvalues>
+      </edge>
+      <edge source="General Partners" target="MCA" id="76" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6410,6665,6928,13077" />
+        </attvalues>
+      </edge>
+      <edge source="General Partners" target="Federal Communications Commission" id="77" weight="4">
+        <attvalues>
+          <attvalue for="0" value="6410,6665,6928,13077" />
+        </attvalues>
+      </edge>
+      <edge source="Allegheny International" target="First Boston" id="78" weight="10">
+        <attvalues>
+          <attvalue for="0" value="3072,3168,3263,4733,4910" />
+        </attvalues>
+      </edge>
+      <edge source="Allegheny International" target="Securities and Exchange Commission" id="79" weight="6">
+        <attvalues>
+          <attvalue for="0" value="6473,7813,7992,10928,14131" />
+        </attvalues>
+      </edge>
+      <edge source="First Boston" target="Securities and Exchange Commission" id="80" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3839,6473,14131,19241" />
+        </attvalues>
+      </edge>
+      <edge source="First Boston" target="Harcourt Brace Jovanovich" id="81" weight="4">
+        <attvalues>
+          <attvalue for="0" value="17574,17701,17873,19241" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Reuters" id="82" weight="8">
+        <attvalues>
+          <attvalue for="0" value="748,2802,4477,4893,10872" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Industrial Equity (Pacific)" id="83" weight="7">
+        <attvalues>
+          <attvalue for="0" value="125,3933,16685,16872,17777" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Mutual Shares" id="84" weight="6">
+        <attvalues>
+          <attvalue for="0" value="96,4918,5442,6103,7817" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Drexel Burnham Lambert" id="85" weight="6">
+        <attvalues>
+          <attvalue for="0" value="153,853,4772,11968,16443" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Mark IV Industries" id="86" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4579,7319,7824,8512,12146" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Congress" id="87" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1477,2118,9582,14982,19432" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="VBI" id="88" weight="5">
+        <attvalues>
+          <attvalue for="0" value="2552,10224,16427,18205,18223" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="New York Stock Exchange" id="89" weight="5">
+        <attvalues>
+          <attvalue for="0" value="2802,10073,10213,10462,16395" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Harris Associates L.P." id="90" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1291,1577,2281,3239,5757" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Brierley Investments" id="91" weight="5">
+        <attvalues>
+          <attvalue for="0" value="125,3933,16685,16872,17777" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Fidelity International" id="92" weight="5">
+        <attvalues>
+          <attvalue for="0" value="851,3418,4477,16700,16874" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Merrill Lynch" id="93" weight="5">
+        <attvalues>
+          <attvalue for="0" value="496,4343,10073,10843,16727" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Oppenheimer" id="94" weight="4">
+        <attvalues>
+          <attvalue for="0" value="1354,6157,10883,11744" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Scandinavia Fund" id="95" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2551,10224,16427,18223" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Ingemar Rydin Industritillbehor AB" id="96" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2551,10224,16427,18223" />
+        </attvalues>
+      </edge>
+      <edge source="Securities and Exchange Commission" target="Caesars World" id="97" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3797,4772,4964,21228" />
+        </attvalues>
+      </edge>
+      <edge source="Caesars World" target="MTS Acquisition" id="98" weight="9">
+        <attvalues>
+          <attvalue for="0" value="3023,3261,3320,4772,5756" />
+        </attvalues>
+      </edge>
+      <edge source="Baker International" target="Hughes Tool" id="99" weight="9">
+        <attvalues>
+          <attvalue for="0" value="1920,1994,2251,2376,2475" />
+        </attvalues>
+      </edge>
+      <edge source="Baker International" target="U.S. Department of Justice" id="100" weight="8">
+        <attvalues>
+          <attvalue for="0" value="1920,1994,2251,2376,2475" />
+        </attvalues>
+      </edge>
+      <edge source="Hughes Tool" target="U.S. Department of Justice" id="101" weight="9">
+        <attvalues>
+          <attvalue for="0" value="1920,1994,2251,2376,2475" />
+        </attvalues>
+      </edge>
+      <edge source="U.S. Department of Justice" target="Reuters" id="102" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2376,2475,2951,19968" />
+        </attvalues>
+      </edge>
+      <edge source="Reuters" target="CPC International" id="103" weight="5">
+        <attvalues>
+          <attvalue for="0" value="6430,10139,10768,11292,11344" />
+        </attvalues>
+      </edge>
+      <edge source="Reuters" target="Commerce" id="104" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4158,4488,4665,6337,9755" />
+        </attvalues>
+      </edge>
+      <edge source="Reuters" target="Merrill Lynch" id="105" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4233,6914,8689,12827" />
+        </attvalues>
+      </edge>
+      <edge source="Reuters" target="Schlumberger" id="106" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4665,5724,5808,6337" />
+        </attvalues>
+      </edge>
+      <edge source="Federal Communications Commission" target="MCA" id="107" weight="7">
+        <attvalues>
+          <attvalue for="0" value="3086,6410,6665,6928,9638" />
+        </attvalues>
+      </edge>
+      <edge source="Federal Communications Commission" target="WOR-TV" id="108" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3086,6665,9638,13077,19930" />
+        </attvalues>
+      </edge>
+      <edge source="Federal Communications Commission" target="Walt Disney" id="109" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3086,6410,6665,6928,19930" />
+        </attvalues>
+      </edge>
+      <edge source="Federal Communications Commission" target="RKO General" id="110" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3086,9638,13077,19930" />
+        </attvalues>
+      </edge>
+      <edge source="MCA" target="WOR-TV" id="111" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3086,6665,9638,13077" />
+        </attvalues>
+      </edge>
+      <edge source="MCA" target="Walt Disney" id="112" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3086,6410,6665,6928" />
+        </attvalues>
+      </edge>
+      <edge source="Citicorp" target="Alleghany" id="113" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7747,8778,8823,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Industrial Equity (Pacific)" target="Brierley Investments" id="114" weight="7">
+        <attvalues>
+          <attvalue for="0" value="125,3933,16685,16872,17777" />
+        </attvalues>
+      </edge>
+      <edge source="Cyacq" target="Citicorp Capital Investors" id="115" weight="6">
+        <attvalues>
+          <attvalue for="0" value="2902,4303,4933,8497,8932" />
+        </attvalues>
+      </edge>
+      <edge source="Schlumberger" target="Commerce" id="116" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4055,4665,5690,6337" />
+        </attvalues>
+      </edge>
+      <edge source="Brierley Investments" target="Astral Pacific" id="117" weight="5">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,9779,10361" />
+        </attvalues>
+      </edge>
+      <edge source="Brierley Investments" target="Rainbow" id="118" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,10361" />
+        </attvalues>
+      </edge>
+      <edge source="Brierley Investments" target="Progressive Enterprises" id="119" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,10361" />
+        </attvalues>
+      </edge>
+      <edge source="E.F. Hutton Group" target="E.F. Hutton" id="120" weight="4">
+        <attvalues>
+          <attvalue for="0" value="372,8628,8666,12156" />
+        </attvalues>
+      </edge>
+      <edge source="Mark IV Industries" target="Conrac" id="121" weight="5">
+        <attvalues>
+          <attvalue for="0" value="8512,8690,8947,12146,14949" />
+        </attvalues>
+      </edge>
+      <edge source="Mark IV Industries" target="Baird" id="122" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4146,4579,7319,7824" />
+        </attvalues>
+      </edge>
+      <edge source="WOR-TV" target="RKO General" id="123" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3086,9638,13077,19930" />
+        </attvalues>
+      </edge>
+      <edge source="Harcourt Brace Jovanovich" target="Harper and Row Publishers" id="124" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3991,5177,5286,8222,12485" />
+        </attvalues>
+      </edge>
+      <edge source="Harcourt Brace Jovanovich" target="Reed International" id="125" weight="4">
+        <attvalues>
+          <attvalue for="0" value="19087,19241,19290,19378" />
+        </attvalues>
+      </edge>
+      <edge source="Astral Pacific" target="Rainbow" id="126" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,10361" />
+        </attvalues>
+      </edge>
+      <edge source="Astral Pacific" target="Progressive Enterprises" id="127" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,10361" />
+        </attvalues>
+      </edge>
+      <edge source="Rainbow" target="Progressive Enterprises" id="128" weight="4">
+        <attvalues>
+          <attvalue for="0" value="7596,9210,9277,10361" />
+        </attvalues>
+      </edge>
+      <edge source="Scandinavia Fund" target="Ingemar Rydin Industritillbehor AB" id="129" weight="4">
+        <attvalues>
+          <attvalue for="0" value="2551,10224,16427,18223" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

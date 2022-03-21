@@ -1,0 +1,41 @@
+ent1,ent2
+AMC,American Motors
+AMR,AirCal
+AMR,American Airlines
+BIL,Brierley Investments
+BP,British Petroleum
+BPCC,British Printing and Communication
+BPI,Banco Portugues de Investmento Sarl
+BPI,Banco Portugues do Atlantico
+CGCT,Cie Generale de Constructions Telephoniques
+CTC,Canadian Tire
+CYACQ,Citicorp
+CYACQ,Cyclops
+DOT,Department of Transportation
+EC,European Community
+ETL,Equiticorp Tasman
+FCC,Federal Communications Commission
+FDA,Food and Drug Administration
+FHLBB,Federal Home Loan Bank Board
+FHLBB,Federal Savings and Loan Insurance
+FMR,Fidelity International
+FSLIC,Federal Savings and Loan Insurance
+FTC,Federal Trade Commission
+IDC,International Digital Communications Planning
+IDC,International Telecom Japan
+ITJ,International Digital Communications Planning
+ITJ,International Telecom Japan
+KDD,Kokusai Denshin Denwa
+MITI,Ministry of International Trade and Industry
+PSA,Pacific Southwest Airlines
+SEC,Securities and Exchange Commission
+SMC,San Miguel
+SMC,Securities and Exchange Commission
+TWA,Trans World Airlines
+TWA,Transportation Department
+TWA,Transworld Airlines
+UAL,United Airlines
+UCPB,United Coconut Planters Bank
+W,Wireless
+WOR,Walt Disney
+WOR-TV,Walt Disney
