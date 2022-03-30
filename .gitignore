@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+#.Python
 #build/
 #develop-eggs/
 #dist/
@@ -34,8 +34,8 @@ __pycache__/
 *.spec
 
 # Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+#pip-log.txt
+#pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
